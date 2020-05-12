@@ -1,4 +1,4 @@
-# music_generator_rbm
+# Medical Prognosifier
 Project on Medical Prognosis.
 
 
