@@ -6,3 +6,5 @@ Project on Medical Prognosis.
 It contains an analysis and model building on predicting:
 1. Diabetic retinopathy
 2. Risk models
+3. Survival models
+4. Hazard models
