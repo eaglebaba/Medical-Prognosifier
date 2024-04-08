@@ -1,5 +1,5 @@
 # Medical Prognosifier
-Project on Medical Prognosis.
+This Project is based on Medical Prognosis.
 
 
 ## Overview
